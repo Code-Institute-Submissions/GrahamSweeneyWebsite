@@ -1,4 +1,5 @@
 # CI-Project1
+---
 Frontend-only website using the technologies learned throughout User Centric Frontend Development module on Code Institute.net
 
 
@@ -17,19 +18,17 @@ Frontend-only website using the technologies learned throughout User Centric Fro
 
 ## Credits:
 ### InstaFeed
----
+
 Instafeed is a dead-simple way to add Instagram photos to your website. No jQuery required, just good 'ol plain javascript.
 
 https://github.com/stevenschobert/instafeed.js
 
 ### Smooth Scroll with jQuery
----
+
 jQuery can also do this. Here's the code to perform a smooth page scroll to an anchor on the same page. It has some logic built in to identify those jump links, and not target other links.
 
 https://css-tricks.com/snippets/jquery/smooth-scrolling/
 
 ### Bootstrap modal
----
-
 
 http://azmind.com/bootstrap-tutorial-modal-video/
