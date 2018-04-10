@@ -3,6 +3,11 @@
 @import url('https://fonts.googleapis.com/css?family=Catamaran:200|Exo');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100');
 
+
+.gallery{
+    padding-left: 8%;
+}
+
 /* Misc */
 .container-fluid {
     max-width: 100%;
