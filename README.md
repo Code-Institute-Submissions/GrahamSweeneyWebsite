@@ -1,6 +1,15 @@
 # CI-Project1
-Frontend-only website using the technologies learned throughout User Centric Frontend Development module on Code Institute.net
+This repo is the source code for an artist's business website.
+- The artist, Graham Sweeney, required a website where his followers could find information, listen to videos, and view images.
 
+## Functionality
+- After consulting with Graham, it was established that the site should be a one-page, scrolling format.
+- 
+
+
+## Technologies
+- The website was developed using front-end technologies utilizing HTML, CSS and Javascript.
+- The [Twitter bootstrap](https://www.getbootstrap.com) was incorporated fo CSS layouts.
 
 ## Project guidelines:
 - Create a website of around 4-5 pages, or (if using a single scrolling page) these should be separate page areas.
@@ -14,22 +23,13 @@ Frontend-only website using the technologies learned throughout User Centric Fro
 - Use Git & GitHub for version control. Each new piece of functionality should be in a separate commit.
 - Deploy the final version of your code to a hosting platform such as GitHub Pages.
 
+---
+
 
 ## Credits:
-### InstaFeed
 ---
-Instafeed is a dead-simple way to add Instagram photos to your website. No jQuery required, just good 'ol plain javascript.
+- Bootstrap modal
 
-https://github.com/stevenschobert/instafeed.js
+    http://azmind.com/bootstrap-tutorial-modal-video/
 
-### Smooth Scroll with jQuery
----
-jQuery can also do this. Here's the code to perform a smooth page scroll to an anchor on the same page. It has some logic built in to identify those jump links, and not target other links.
-
-https://css-tricks.com/snippets/jquery/smooth-scrolling/
-
-### Bootstrap modal
----
-
-
-http://azmind.com/bootstrap-tutorial-modal-video/
+    - Used to enable the pop-out/modal video on homepage.

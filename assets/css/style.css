@@ -47,7 +47,7 @@ header {
 .about-section {
     padding-top: 5vh;
     padding-bottom: 5vh;
-    min-height: 100vh;
+    min-height: 0vh;
     background-color: #013243;
     color: #ffffff;
     font-family: 'Catamaran', cursive;
