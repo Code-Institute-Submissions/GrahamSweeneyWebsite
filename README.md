@@ -13,7 +13,7 @@ This repo is the source code for an artist's business website.
 - The [Twitter bootstrap](https://www.getbootstrap.com) was incorporated fo CSS layouts.
 
 ## Version control
-- Git and GitHub were utilized for **version control.** Ass additions and edits were being made, files were committed to branches and merged to the master branch.
+- Git and GitHub were utilized for **version control.** As additions and edits were being made, files were committed to branches and merged to the master branch.
 
 ## Deployment
 - Development and master/production branches were deployed on the [Netlify](https://netlify.com) platform.
