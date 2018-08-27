@@ -4,6 +4,18 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100');
 
 
+.btn, .btn-large:hover, .btn-small{
+    background-color: transparent;
+    /* border-color: #013243; */
+    color: #fff;
+}
+
+.btn:hover, .btn-large:hover, .btn-small:hover{
+    background-color: transparent;
+    /* border-color: #013243; */
+    color: #fff;
+}
+
 .gallery{
     padding-left: 8%;
 }
@@ -11,6 +23,7 @@
 /* Misc */
 .container-fluid {
     max-width: 100%;
+    background-color: #013243;
 }
 
 a,
@@ -58,8 +71,8 @@ header {
     padding-top: 5vh;
     padding-bottom: 1vh;
     min-height: 100vh;
-    color: #013243;
-    background-color: #ffffff;
+    color: #fff;
+    background-color: #013243;
     font-family: 'Catamaran', cursive;
     max-width: 100%
 }
