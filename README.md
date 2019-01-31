@@ -1,4 +1,4 @@
-# CI-Project1
+# Graham Sweeney Website
 ## Intro
 This repo is the source code for an artist's business website.
 - The artist, Graham Sweeney, required a website where his followers could find information, listen to videos, and view images.
