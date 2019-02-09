@@ -8,7 +8,7 @@ Graham Sweeney, required a website where his followers could find information, l
 - Each page **section** of the code represents a standalone page of what would be a regular multi=page website.
 
 #### Section 1/Header: 
-- Vistors should be greeted with a large full-width cover image.
+- Visitors should be greeted with a large full-width cover image.
 - A video should be available to play in a modal window at the top of the page.
 - Links to Graham's social media profiles should be available.
 
