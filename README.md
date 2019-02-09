@@ -48,6 +48,11 @@ The website was developed using front-end technologies:
 - The site was tested on all modern desktop and mobile browsers to ensure cross compatibility and functionality.
 - The site was tested to be responsive and to ensure it would be correctly displayed across mobile devices.
 
+## Peformance
+To ensure the website responded and loaded quickly for the user, audits were carried out in CHrome dev tools:
+
+ ![performance](/assets/img/readme-assets/perform1.png)
+
 ## Credits
 ### Third-party:
 - [Animate CSS](https://daneden.github.io/animate.css/) - for element animation.
