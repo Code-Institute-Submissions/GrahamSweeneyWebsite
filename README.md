@@ -1,6 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb7a7ce6-d4b2-49b1-8525-e179e024bc8d/deploy-status)](https://app.netlify.com/sites/distracted-cori-25ae8b/deploys)
 # Graham Sweeney Website 
-#### Deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/bb7a7ce6-d4b2-49b1-8525-e179e024bc8d/deploy-status)](https://app.netlify.com/sites/distracted-cori-25ae8b/deploys)
-
 This repo contains the code for a musician's website.
 Graham Sweeney, required a website where his followers could find information, listen to videos, and view images.
 
