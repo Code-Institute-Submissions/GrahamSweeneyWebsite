@@ -7,7 +7,7 @@ Graham Sweeney, required a website where his followers could find information, l
 
 ## UX
 ### After consulting with Graham, it was established that the site should be a one-page, scrolling format containg some of the following features:
-- Each page **section** of the code represents a standalone page of what would be a regular multi=page website.
+- Each page **section** of the code represents a standalone page of what would be a regular multi-page website.
 
 #### Section 1/Header: 
 - Visitors should be greeted with a large full-width cover image.
@@ -50,7 +50,7 @@ The website was developed using front-end technologies:
 - The site was tested on all modern desktop and mobile browsers to ensure cross compatibility and functionality.
 - The site was tested to be responsive and to ensure it would be correctly displayed across mobile devices.
 
-## Peformance
+## Performance
 To ensure the website responded and loaded quickly for the user, audits were carried out in CHrome dev tools:
 
 ![performance](/assets/img/readme-assets/perform1.png)
