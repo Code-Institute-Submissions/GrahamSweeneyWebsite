@@ -3,7 +3,7 @@
 This repository contains the code for a musician's website.
 Graham Sweeney, required a website where his followers could find information, listen to videos, and view images.
 
-![header screenshot](/assets/img/readme-assets/header-screenshot.png)
+![header screenshot](/assets/img/readme-assets/header-screenshot-min.png)
 
 ## UX
 ### After consulting with Graham, it was established that the site should be a one-page, scrolling format containg some of the following features:
