@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bb7a7ce6-d4b2-49b1-8525-e179e024bc8d/deploy-status)](https://app.netlify.com/sites/distracted-cori-25ae8b/deploys)
 # Graham Sweeney Website 
-This repo contains the code for a musician's website.
+This repository contains the code for a musician's website.
 Graham Sweeney, required a website where his followers could find information, listen to videos, and view images.
 
 ## UX
@@ -28,25 +28,31 @@ Graham Sweeney, required a website where his followers could find information, l
 
 
 ## Technologies
-- The website was developed using front-end technologies utilizing **HTML, CSS and Javascript.**
-- The [Twitter bootstrap](https://www.getbootstrap.com) was incorporated fo CSS layouts.
+The website was developed using front-end technologies:
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+- [jQuery](https://jquery.com/) - for DOM manipulation.
+- [Twitter bootstrap](https://www.getbootstrap.com) - for responsive, mobile-first layouts.
+
 
 ## Version control
 - Git and GitHub were utilized for **version control.** As additions and edits were being made, files were committed to branches and merged to the master branch.
 
 ## Deployment
-- Development and master/production branches were deployed on the [Netlify](https://netlify.com) platform.
-- This enabled deployments to be triggered from **GitHub** commits to a dev branch.
-- Once changes to dev were tested and approved, theses were **merged to the master branch** and made publicly available on [Graham's website](https://grahamsweeney.ie).
+- The project is deployed on the [Netlify](https://netlify.com) platform.
+- This enabled deployments to be triggered from pushes to a dev branch of the repository on GitHub.
+- Once changes to dev were tested and approved, theses were merged to the master branch and made publicly available on [Graham's website](https://grahamsweeney.ie).
 
 ## Testing
-- The site was tested on all modern browsers to ensure cross compatibility and functionality.
-- The site was also tested to be responsiveness and to ensure it would be correctly displayed across mobile devices.
+- The site was tested on all modern desktop and mobile browsers to ensure cross compatibility and functionality.
+- The site was tested to be responsive and to ensure it would be correctly displayed across mobile devices.
 
 ## Credits
-### Third-party scripts used .
-- Bootstrap modal
+### Third-party:
+- [Animate CSS](https://daneden.github.io/animate.css/) - for element animation.
 
-    http://azmind.com/bootstrap-tutorial-modal-video/
+- [Bootstrap modal](http://azmind.com/bootstrap-tutorial-modal-video/) - Used to enable the pop-out/modal video on homepage.
 
-    - Used to enable the pop-out/modal video on homepage.
+#### Media:
+All media such as images and videos were obtained from [Graham Sweeney](https://grahamasweeney.ie)
