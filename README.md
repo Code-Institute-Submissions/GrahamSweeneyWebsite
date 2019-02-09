@@ -3,6 +3,8 @@
 This repository contains the code for a musician's website.
 Graham Sweeney, required a website where his followers could find information, listen to videos, and view images.
 
+![header screenshot](/assets/img/readme-assets/header-screenshot.png)
+
 ## UX
 ### After consulting with Graham, it was established that the site should be a one-page, scrolling format containg some of the following features:
 - Each page **section** of the code represents a standalone page of what would be a regular multi=page website.
@@ -51,7 +53,7 @@ The website was developed using front-end technologies:
 ## Peformance
 To ensure the website responded and loaded quickly for the user, audits were carried out in CHrome dev tools:
 
- ![performance](/assets/img/readme-assets/perform1.png)
+![performance](/assets/img/readme-assets/perform1.png)
 
 ## Credits
 ### Third-party:
