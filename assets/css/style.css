@@ -4,6 +4,10 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100');
 
 
+.crt-feed-container {
+    background-color: #013243 !important;
+}
+
 .btn, .btn-large:hover, .btn-small{
     background-color: transparent;
     /* border-color: #013243; */
