@@ -103,24 +103,6 @@
                     </div>
                     <hr>
                 </div>
-                <!-- Place <div> tag where you want the feed to appear -->
-                <!-- IMG carousel -->
-                <!-- <div class="carousel">
-                    <a class="carousel-item" href="https://www.instagram.com/p/BeqoXqgBw6q/?taken-by=grahamsweeney">
-                        <img src="assets/img/insta1.jpg">
-                    </a>
-                    <a class="carousel-item" href="https://www.instagram.com/p/Bgn8um0hGck/?taken-by=grahamsweeney">
-                        <img src="assets/img/insta2.jpg">
-                    </a>
-                    <a class="carousel-item" href="https://www.instagram.com/p/Be1KhlwBBqx/?taken-by=grahamsweeney">
-                        <img src="assets/img/insta3.jpg">
-                    </a>
-                    <a class="carousel-item" href="https://www.instagram.com/p/BeBb_xthfE9/?taken-by=grahamsweeney">
-                        <img src="assets/img/insta4.jpg">
-                    </a>
-                </div> -->
-
-
             </div>
         </div>
         </div>
@@ -128,21 +110,9 @@
 
     <section class="instagram-feed">
         <div class="container-fluid">
-            <!-- Place <div> tag where you want the feed to appear -->
-            <div id="curator-feed-instagram"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
-            <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
-            <script type="text/javascript">
-                /* curator-feed-instagram */
-                (function () {
-                    var i, e, d = document,
-                        s = "script";
-                    i = d.createElement("script");
-                    i.async = 1;
-                    i.src = "https://cdn.curator.io/published/35a6722f-c836-49f2-8432-ce3945c63e26.js";
-                    e = d.getElementsByTagName(s)[0];
-                    e.parentNode.insertBefore(i, e);
-                })();
-            </script>
+            <div class="col-md-6 col-md-offset-3">
+                <div id="curator-feed-instagram"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+            </div>
         </div>
     </section>
 
@@ -263,19 +233,10 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!-- Modal JS -->
     <script src="assets/js/modal.js"></script>
+    <!-- Custom JS -->
+    <script src="assets/js/custom.js"></script>
     <!-- Font awesome -->
     <script src="https://use.fontawesome.com/d46ec8e634.js"></script>
-
-    <!-- Compiled and minified Materialize JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('.slider').slider();
-            $('.carousel').carousel();
-            $('.modal').modal();
-        });
-    </script>
 
 </body>
 

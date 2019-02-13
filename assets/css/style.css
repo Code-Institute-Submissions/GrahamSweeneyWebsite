@@ -4,6 +4,17 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100');
 
 
+.crt-feed.crt-feed-branded .crt-logo {
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    font-size: 0.9em;
+    z-index: 999;
+    color: transparent !important;
+    text-decoration: none;
+}
+
 .crt-feed-container {
     background-color: #013243 !important;
 }
