@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Catamaran:200|Exo');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100');
 
-
+/* Instagram feed */
 .crt-feed.crt-feed-branded .crt-logo {
     display: block;
     position: absolute;
@@ -19,23 +19,7 @@
     background-color: #013243 !important;
 }
 
-.btn, .btn-large:hover, .btn-small{
-    background-color: transparent;
-    /* border-color: #013243; */
-    color: #fff;
-}
-
-.btn:hover, .btn-large:hover, .btn-small:hover{
-    background-color: transparent;
-    /* border-color: #013243; */
-    color: #fff;
-}
-
-.gallery{
-    padding-left: 8%;
-}
-
-/* Misc */
+/* Miscellaneous */
 .container-fluid {
     max-width: 100%;
     background-color: #013243;
@@ -45,6 +29,26 @@ a,
 h1,
 h2 {
     outline: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn,
+.btn-large:hover,
+.btn-small {
+    background-color: transparent;
+    /* border-color: #013243; */
+    color: #fff;
+}
+
+.btn:hover,
+.btn-large:hover,
+.btn-small:hover {
+    background-color: transparent;
+    /* border-color: #013243; */
+    color: #fff;
 }
 
 .quote {
@@ -82,6 +86,7 @@ header {
     max-width: 100%
 }
 
+/* Video */
 .videos-section {
     padding-top: 5vh;
     padding-bottom: 1vh;
@@ -193,7 +198,7 @@ header {
 /* YouTube video Responsive */
 .video-container {
     position: relative;
-    padding-bottom: 56.25%;
+    /* padding-bottom: 56.25%; */
     padding-top: 30px;
     height: 0;
     overflow: hidden;
