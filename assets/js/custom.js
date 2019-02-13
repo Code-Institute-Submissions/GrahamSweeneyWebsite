@@ -8,3 +8,10 @@
     e = d.getElementsByTagName(s)[0];
     e.parentNode.insertBefore(i, e);
 })();
+
+
+$(document).ready(function () {
+    $('.slider').slider();
+    $('.carousel').carousel();
+    $('.modal').modal();
+});
