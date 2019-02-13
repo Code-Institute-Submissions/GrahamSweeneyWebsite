@@ -2,6 +2,7 @@
 # Graham Sweeney Website 
 This repository contains the code for a musician's website.
 Graham Sweeney, required a website where his followers could find information, listen to videos, and view images.
+- The live/production version of the site can viewed on [Graham's website](https://grahamsweeney.ie).
 
 ![header screenshot](/assets/img/readme-assets/header-screenshot-min.png)
 
@@ -45,6 +46,12 @@ The website was developed using front-end technologies:
 - The project is deployed on the [Netlify](https://netlify.com) platform.
 - This enabled deployments to be triggered from pushes to a dev branch of the repository on GitHub.
 - Once changes to dev were tested and approved, theses were merged to the master branch and made publicly available on [Graham's website](https://grahamsweeney.ie).
+
+## Local deployment
+This project can run locally using Python webserver:
+```python
+python -m SimpleHTTPServer
+```
 
 ## Testing
 - The site was tested on all modern desktop and mobile browsers to ensure cross compatibility and functionality.
